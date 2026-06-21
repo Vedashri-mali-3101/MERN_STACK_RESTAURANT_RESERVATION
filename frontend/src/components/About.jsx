@@ -13,13 +13,12 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+             At Spice Symphony, we believe that every meal should be a celebration.
+  Our chefs craft delicious dishes inspired by traditional recipes and
+  modern culinary techniques, delivering rich flavors in every bite.
+  From intimate dinners to group gatherings, we provide a welcoming
+  environment, outstanding hospitality, and a simple reservation process
+  that allows you to secure your table in just a few clicks.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
